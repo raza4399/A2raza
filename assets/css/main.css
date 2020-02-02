@@ -3801,6 +3801,7 @@ input, select, textarea {
 
 		body.is-preload #wrapper:before {
 			opacity: 0;
+			background-color: #DA102E;
 		}
 
 	#wrapper > section.intro {
